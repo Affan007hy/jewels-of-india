@@ -269,4 +269,15 @@ body {
   text-align: center;
   text-shadow: 1px 1px 1px black;
 }
-
+.footer{
+    margin: 0;
+    font-size: 19px;
+    color: black;
+        }
+ .footer p{
+    color: black;
+    text-align: center;
+    padding: 10px;
+    background-color: gray;
+    word-spacing: 2px;
+        }
